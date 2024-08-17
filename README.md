@@ -1,3 +1,3 @@
-# rescycling
+# REScycle
 
 A new Flutter project.
