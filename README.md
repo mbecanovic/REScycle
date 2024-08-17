@@ -1,3 +1,3 @@
 # REScycle
 
-![1723909105556](https://github.com/user-attachments/assets/a5ba390c-5c8f-4c64-bd4b-d2f789eeb27e)
+![merge](https://github.com/user-attachments/assets/59607d3d-6e95-4330-91af-ac3fa64f4907)
