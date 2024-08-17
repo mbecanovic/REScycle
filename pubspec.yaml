@@ -1,0 +1,48 @@
+name: rescycling
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^5.1.0
+  dio: ^5.5.0+1
+  firebase: ^9.0.3
+  firebase_auth: ^5.1.2
+  firebase_core: ^3.2.0
+  flutter:
+    sdk: flutter
+  flutter_native_splash: ^2.4.1
+  flutter_polyline_points: ^1.0.0
+  flutter_splash_screen: ^3.0.0
+  font_awesome_flutter: ^10.7.0
+  geolocator: ^12.0.0
+  google_maps_flutter: ^2.7.0
+  google_maps_webservice: ^0.0.20-nullsafety.5
+  keyboard_avoider: ^0.2.0
+  loading_animation_widget: ^1.2.1
+  location: ^7.0.0
+  material: ^1.0.0+2
+  qr_code_scanner: ^1.0.1
+  qr_flutter: ^4.1.0
+  widget_to_marker: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/data/pic/
+    - lib/data/icons/
+
+flutter_native_splash:
+  color: "#ffffff" # Boja pozadine splash screena
+  image: lib/data/icons/logo.png # Putanja do logotipa
+  android: true
+  ios: true
+  fullscreen: true
