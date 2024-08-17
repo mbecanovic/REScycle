@@ -15,4 +15,4 @@ To redeem a coupon, users simply need to present the QR code to the retailer at 
 
 
 This is a QR scanner that allows users to scan a QR code from Smart Bin.
-![Screenshot_2024-08-17-17-22-39-793_com example rescycling](https://github.com/user-attachments/assets/26efbbd9-763f-4fed-81cc-0d358796c2c6)
+![scanner](https://github.com/user-attachments/assets/b30a3ca1-db98-447c-a9bc-56bad6a9cedd)
