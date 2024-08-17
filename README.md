@@ -12,3 +12,7 @@ Users can redeem their points for exclusive benefits with partner businesses. Th
 To redeem a coupon, users simply need to present the QR code to the retailer at the store where they wish to use it. This process ensures a seamless experience for accessing rewards and enjoying promotions at partner locations.
 
 ![merge2](https://github.com/user-attachments/assets/a91a9c73-7105-4f27-b50a-78aafe015608)
+
+
+This is a QR scanner that allows users to scan a QR code from Smart Bin.
+![Screenshot_2024-08-17-17-22-39-793_com example rescycling](https://github.com/user-attachments/assets/26efbbd9-763f-4fed-81cc-0d358796c2c6)
